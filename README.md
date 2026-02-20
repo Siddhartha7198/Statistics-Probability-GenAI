@@ -1,5 +1,5 @@
-# Statistics-Probability-GenAI
-Distributional Matching using Generative Adversarial Networks
+# Distributional-Probability-GenAI
+Distributional Matching using Generative Adversarial Networks (GANs)
 
 • Developed unsupervised generative models for high-dimensional probability distributions.
 
