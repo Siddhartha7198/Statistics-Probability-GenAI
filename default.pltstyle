@@ -1,0 +1,18 @@
+axes.labelsize : 16
+axes.labelweight: bold 
+xtick.labelsize : 16
+ytick.labelsize : 16
+xtick.direction : in
+ytick.direction : in
+xtick.bottom : True
+xtick.top : True
+ytick.left : True
+ytick.right : True
+xtick.minor.visible : True
+ytick.minor.visible : True
+text.usetex : True
+font.family: Helvetica
+figure.constrained_layout.use : True
+legend.fontsize: 14  
+legend.frameon: True
+legend.framealpha: 1
